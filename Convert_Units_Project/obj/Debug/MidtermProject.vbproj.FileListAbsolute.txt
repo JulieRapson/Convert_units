@@ -1,0 +1,12 @@
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\bin\Debug\MidtermProject.exe.config
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\bin\Debug\MidtermProject.exe
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\bin\Debug\MidtermProject.pdb
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\bin\Debug\MidtermProject.xml
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.vbproj.AssemblyReference.cache
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.Form1.resources
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.Resources.resources
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.vbproj.GenerateResource.cache
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.vbproj.CoreCompileInputs.cache
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.exe
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.xml
+C:\Users\myram\OneDrive\classes\GUID2023\MidtermProject\MidtermProject\obj\Debug\MidtermProject.pdb
